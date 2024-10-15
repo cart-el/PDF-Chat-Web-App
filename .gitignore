@@ -1,2 +1,4 @@
 rag_env/ 
-rag_env/ 
+*.pyd
+*.dll
+*.lib
